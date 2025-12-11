@@ -1,0 +1,51 @@
+--- Ticket #1 ---
+Usuario: Natalia
+Fecha (UTC): 2025-12-09T01:59:15.807996
+
+Items:
+ - Tacos x3 : $45.0
+ - Torta x1 : $35.0
+ - Agua x1 : $10.0
+ - Refresco x1 : $18.0
+
+Método de pago: Efectivo
+TOTAL: $108.0
+-----------------------------
+
+--- Ticket #7 ---
+Usuario: juanruiz
+Fecha (UTC): 2025-12-09T17:47:17.983463
+
+Items:
+ - Cerveza x1 : $28.0
+
+Método de pago: Tarjeta
+TOTAL: $28.0
+-----------------------------
+
+--- Ticket #12 ---
+Usuario: juanruiz
+Fecha (UTC): 2025-12-09T17:48:30.877737
+
+Items:
+ - Tacos x4 : $60.0
+ - Refresco x1 : $18.0
+
+Método de pago: Tarjeta
+TOTAL: $78.0
+-----------------------------
+
+--- Ticket #18 ---
+Usuario: xd
+Fecha (UTC): 2025-12-10T13:09:07.192801
+
+Items:
+ - Quesadillas x2 : $44.0
+ - Refresco x2 : $36.0
+ - Jugo x3 : $60.0
+ - Café x2 : $24.0
+
+Método de pago: Efectivo
+TOTAL: $164.0
+-----------------------------
+
